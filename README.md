@@ -4,7 +4,7 @@ This project analyses the customer feedback received by a logistics company on a
 
 **Solution**
 
-This project builds a prediction model to predict whether the customer is happy or not based on the answers they give to the questions asked in the survey. 
+This project builds a prediction model based on Machine Learning to predict whether the customer is happy or not based on the answers they give to the questions asked in the survey. 
 
 After an exploratory data analysis (checking of missing/NULL values, outliers) and preparation of the data (test-train split), three classification models (Decision Tree, Random Forest, and XGBoost) were tried on the data with XGBoost giving the best prediction results. 
 
