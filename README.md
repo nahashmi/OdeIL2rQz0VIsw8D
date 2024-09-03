@@ -1,3 +1,5 @@
+Happy Customers (Logistics and Delivery)
+
 **Background**
 
 This project analyses the customer feedback received by a logistics company on a survey that they did to a selected cohort of their customers. Based on the customers' answers to six questions about their satisfaction on the delivery of their order, their overall satisfaction is determined (happy or unhappy customer). 
